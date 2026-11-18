@@ -7,3 +7,4 @@ reports/*
 !reports/.gitkeep
 
 samples/*.eml
+reports/output/
